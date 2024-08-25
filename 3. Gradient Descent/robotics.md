@@ -199,6 +199,4 @@
 - **Assisted Cooking Mode:** The kitchen can be set to an assisted mode, where the system takes over more complex tasks, like adjusting cooking times or temperatures, ensuring that meals are prepared correctly.
 - **Connectivity with Caregivers:** The system can connect with caregivers or family members, providing them with updates on the user’s kitchen activities, ensuring safety and well-being.
 
-**Impact**
-
-**This smart kitchen system enhances the independence of elderly individuals by making cooking and kitchen management safer, more convenient, and tailored to their specific needs.**
+**Impact** This smart kitchen system enhances the independence of elderly individuals by making cooking and kitchen management safer, more convenient, and tailored to their specific needs.
